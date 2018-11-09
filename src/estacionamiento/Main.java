@@ -23,7 +23,7 @@ public class Main {
         e1.agregarVehiculo(v3);
         e1.agregarVehiculo(v4);
         
-     
+     System.out.println(" ");
         e1.mostrarVehiculo();
         e1.preciototal();
         
